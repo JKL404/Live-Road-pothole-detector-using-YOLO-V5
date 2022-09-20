@@ -6,3 +6,5 @@ YOLO take a batch of images of shape (m, 224,224,3) and then outputs a list of b
 
 
 The output generated will be a grid of dimensions S x S ( eg. 19 x 19 ) with each grid having a set of B anchor boxes. Each box will contain 5 basic dimensions which include a confidence score and 4 bounding box information. Along with these 5 basic information, each box will also have the probabilities of the classes. 
+
+Special Thanks to https://bayesianquest.com/2022/07/25/build-you-computer-vision-application-part-v-road-pothole-detector-using-yolo-v5/
